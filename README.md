@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pramadikaegamo
+- 👋 Hi, I’m Pramadika Egamo
 - 👀 I’m interested in write code
 - 🌱 I’m currently learning Artificial Intelligence
 
